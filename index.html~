@@ -22,8 +22,8 @@
 
 				<!-- Header -->
 					<header id="header">
-					<span class="avatar"><img src="images/ckt.png" alt="" style="width:80px;height:80px;"/></span>  
-						<h1><!--<span class="avatar"><img src="images/horde2.png" alt="" style="width:122px;height:122px;"/></span> -->Lorenzo Corral</h1>
+					<!-- <span class="avatar"><img src="images/logo.png" alt="" /></span> -->
+						<h1>Lorenzo Corral</h1>
 						<p>Engineer &nbsp;&bull;&nbsp; Gamer &nbsp;&bull;&nbsp; Dreamer</p>
 						<nav>
 							
