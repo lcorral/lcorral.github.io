@@ -15,6 +15,23 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
 	<body class="loading">
+		
+			<script type=text/javascript>
+		function changetext(new_text)
+			{
+				var id = document.getElementById("status_text");
+				id.innerHTML=new_text;
+			}
+		</script>
+
+		<script type=text/javascript>
+		function resetText()
+			{
+				var id = document.getElementById("status_text");
+				id.innerHTML="&nbsp;";
+			}
+		</script>
+		
 		<div id="wrapper">
 			<div id="bg"></div>
 			<div id="overlay"></div>
